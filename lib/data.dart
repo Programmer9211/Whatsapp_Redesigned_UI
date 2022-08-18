@@ -1,4 +1,4 @@
-List chartTileData = [
+List chatTileData = [
   ChatTileData(
     imagePath: "assets/1.png",
     lastMessage: "Hey, hw u doin ?",
@@ -30,7 +30,7 @@ List chartTileData = [
     name: "Sarah",
   ),
   ChatTileData(
-    imagePath: "assets/1.png",
+    imagePath: "assets/6.png",
     lastMessage: "That was funny!!",
     lastScene: "26/06/22",
     name: "Martha",
