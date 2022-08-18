@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Preview
 
+![Employee data](/Whatsapp_Redesigned_UI/assets/img.png?raw=true "Employee Data title")
+
 <img src="/repository/assets/img.png">
 
 ## Getting Started
