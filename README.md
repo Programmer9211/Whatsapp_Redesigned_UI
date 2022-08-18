@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Preview
 
-![alt text](img.png, height= 10)
+![alt text](img.png, height="30px" width="30px")
 
 ## Getting Started
 
