@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Preview
 
-<img src="/Whatsapp_Redesigned_UI/assets/img.png">
+<img src="/repository/assets/img.png">
 
 ## Getting Started
 
