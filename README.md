@@ -4,9 +4,7 @@ A new Flutter project.
 
 ## Preview
 
-![Employee data](/Whatsapp_Redesigned_UI/assets/img.png?raw=true "Employee Data title")
-
-
+![alt text](https://github.com/[programmer9211]/[Whatsapp_Redesigned_UI]/blob/[main]/image.jpg?raw=true)
 
 ## Getting Started
 
