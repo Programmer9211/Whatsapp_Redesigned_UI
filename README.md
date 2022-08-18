@@ -4,10 +4,8 @@ A new Flutter project.
 
 ## Preview
 
-![alt text](img.png, height="30px" width="30px")
-
 <p align="center">
-  <img src="img.png" width="350" title="hover text">
+  <img src="img.png" width="350" height = 300 title="ScreenShot">
 </p>
 
 ## Getting Started
