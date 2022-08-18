@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Preview
+
+<img src="/repository/assets/employee.png" alt="Employee data" title="Employee Data title">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
