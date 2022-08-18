@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Preview
 
-![alt text](https://github.com/[programmer9211]/[Whatsapp_Redesigned_UI]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[programmer9211]/[Whatsapp_Redesigned_UI]/blob/[main]/img.jpg?raw=true)
 
 ## Getting Started
 
