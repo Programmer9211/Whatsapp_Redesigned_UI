@@ -6,6 +6,10 @@ A new Flutter project.
 
 ![alt text](img.png, height="30px" width="30px")
 
+<p align="center">
+  <img src="img.png" width="350" title="hover text">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
