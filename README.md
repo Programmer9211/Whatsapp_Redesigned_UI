@@ -5,7 +5,7 @@ A new Flutter project.
 ## Preview
 
 <p align="center">
-  <img src="img.png" width="350" height = 300 title="ScreenShot">
+  <img src="img.png" width="300" title="ScreenShot">
 </p>
 
 ## Getting Started
